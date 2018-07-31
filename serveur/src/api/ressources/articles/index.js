@@ -1,0 +1,2 @@
+export  { articleRouter } from "./articlesRoute";
+
